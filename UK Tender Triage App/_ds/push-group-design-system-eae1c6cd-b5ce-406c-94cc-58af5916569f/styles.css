@@ -1,0 +1,7 @@
+/* =============================================================
+   PUSH Group Design System — Root entry
+   Consumers link this single file. It pulls in the foundations
+   (colour, type, spacing, radii, shadows, motion).
+   ============================================================= */
+
+@import url("./colors_and_type.css");
